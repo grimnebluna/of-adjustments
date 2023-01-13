@@ -1,0 +1,10 @@
+@media (max-width:1382px and min-width:1056px ) {
+
+    .of-webcomponent .file-drop {
+        padding-top:400px;
+    }
+    .homepar {
+        top:445px !important;
+    }
+
+}
